@@ -203,6 +203,9 @@ This repository will share the classification, paper, code, and notes of awesome
 -  **ICCV** **`[VoTr]`** Voxel Transformer for 3D Object Detection
 -  **ICCV** **`[You Don’t Only Look Once]`** Constructing Spatial-Temporal Memory for Integrated 3D Object Detection and Tracking
 -  **IEEE TCSVT** **`[From Multi-View to Hollow-3D]`** Hallucinated Hollow-3D R-CNN for 3D Object Detection
+-  **ICCV 2021** **`[Pyramid R-CNN]`**  Towards Better Performance and Adaptability for 3D Object Detection 
+-  **arXiv 2021**  **`[M3DeTR]`**  Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers
+-  **arXiv 2021** **`[SST]`** Embracing Single Stride 3D Object Detector with Sparse Transformer
 
 ## 2022
 
