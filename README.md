@@ -202,6 +202,7 @@ This repository will share the classification, paper, code, and notes of awesome
 -  **ICCV** **`[SPG]`** Unsupervised Domain Adaptation for 3D Object Detection via Semantic Point Generation
 -  **ICCV** **`[VoTr]`** Voxel Transformer for 3D Object Detection
 -  **ICCV** **`[You Don’t Only Look Once]`** Constructing Spatial-Temporal Memory for Integrated 3D Object Detection and Tracking
+-  **NeurIPS** **`[MVP]`** Multimodal Virtual Point 3D Detection
 -  **IEEE TCSVT** **`[From Multi-View to Hollow-3D]`** Hallucinated Hollow-3D R-CNN for 3D Object Detection
 -  **ICCV 2021** **`[Pyramid R-CNN]`**  Towards Better Performance and Adaptability for 3D Object Detection 
 -  **arXiv 2021**  **`[M3DeTR]`**  Multi-representation, Multi-scale, Mutual-relation 3D Object Detection with Transformers
@@ -211,5 +212,14 @@ This repository will share the classification, paper, code, and notes of awesome
 
 - **AAAI** **`[BtcDet]`** Behind the Curtain Learning Occluded Shapes for 3D Object Detection
 - **arXiv** **`[PiFeNet]`** Pillar-Feature Network for Real-Time 3D Pedestrian Detection from Point Cloud
-- **arXiv** **`[SASA]`** Semantics-Augmented Set Abstraction for Point-based 3D Object Detection
+- **AAAI** **`[SASA]`** Semantics-Augmented Set Abstraction for Point-based 3D Object Detection
 - **WACV** **`[Fast-CLOCs]`** Fast Camera-LiDAR Object Candidates Fusion for 3D Object Detection
+- **CVPR** A Versatile Multi-View Framework for LiDAR-based 3D Object Detection with Guidance from Panoptic Segmentation
+- **CVPR** Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving
+- **CVPR** **`[DeepFusion]`** Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection
+- **CVPR** **`[MonoJSG]`** Joint Semantic and Geometric Cost Volume for Monocular 3D Object Detection
+- **CVPR** **`[PDV]`** Point Density-Aware Voxels for LiDAR 3D Object Detection
+- **CVPR** **`[SST]`** Embracing Single Stride 3D Object Detector with Sparse Transformer
+- **arXiv** Dense Voxel Fusion for 3D Object Detection
+- **arXiv** **`[CG-SSD]`** Corner Guided Single Stage 3D Object Detection from LiDAR Point Cloud
+- **arXiv** **`[SASA]`** Semantics-Augmented Set Abstraction for Point-based 3D Object Detection
